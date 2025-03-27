@@ -1,5 +1,8 @@
 {
+"<<<<<<< HEAD
 "homepage": "https://Naveensnk26.github.io/project_webPage",
+=======
+>>>>>>> 9a62db2d9bb79caec1e4c6a8590e768b16d39ad0
   "name": "work",
   "version": "0.1.0",
   "private": true,
@@ -18,9 +21,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 9a62db2d9bb79caec1e4c6a8590e768b16d39ad0
   },
   "eslintConfig": {
     "extends": [
@@ -41,8 +48,12 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "gh-pages": "^3.2.3",
     "tailwindcss": "^3.4.17"
   }
  
-}
+=======
+    "tailwindcss": "^3.4.17"
+  }
+>>>>>>> 9a62db2d9bb79caec1e4c6a8590e768b16d39ad0
